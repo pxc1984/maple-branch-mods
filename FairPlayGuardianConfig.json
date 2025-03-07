@@ -1,0 +1,18 @@
+{
+  "Mode": "Allow",
+  "Block": [  {"ModId": "mobsradar",
+      "Version": null,
+      "Hash": null } ,
+{"ModId": "blocksoverlay",
+      "Version": null,
+      "Hash": null } 
+],
+  "Allow": [],
+  "Log": true,
+  "LogPatches": false,
+  "LogMods": true,
+  "Kick": true,
+  "Timeout": 15,
+  "TimeoutKick": 15,
+  "DisableMismatchCheck": true
+}
